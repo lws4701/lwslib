@@ -1,0 +1,4 @@
+# Build Files
+*.a
+*.dylib
+*.o
